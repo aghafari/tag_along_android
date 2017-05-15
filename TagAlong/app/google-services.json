@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895052895459",
+    "firebase_url": "https://tagalong-5d805.firebaseio.com",
+    "project_id": "tagalong-5d805",
+    "storage_bucket": "tagalong-5d805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895052895459:android:fc87589d6384a436",
+        "android_client_info": {
+          "package_name": "com.example.ashkan.tagalong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895052895459-74djls59eedsgc9c9ja828f6s6o5kabp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashkan.tagalong",
+            "certificate_hash": "1abe6216cef9896e70dc4597bd7492e240500e9d"
+          }
+        },
+        {
+          "client_id": "895052895459-6l6l2lgk7di29il170sq3t9957fegur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnoQLYzWPlQFw0sRaXnpedy9FxuTSNIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895052895459-6l6l2lgk7di29il170sq3t9957fegur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
